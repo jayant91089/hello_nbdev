@@ -2,7 +2,7 @@
 > A decent tutorial.
 
 
-This file will become your README and also the index of your documentation.
+I kind of like nbdev.
 
 ## Install
 
@@ -10,7 +10,7 @@ This file will become your README and also the index of your documentation.
 
 ## How to use
 
-Fill me in please! Don't forget code examples:
+Let's see this at work.
 
 ```python
 say_hello("Jayant")
